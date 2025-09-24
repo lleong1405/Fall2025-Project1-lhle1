@@ -1,4 +1,3 @@
-
 const RATING_FROM_IMDB = 9.3; 
 
 window.addEventListener("DOMContentLoaded", () => {
